@@ -1,0 +1,61 @@
+Terms of Service (TOS) - ClickCreate Prepay App
+Last Updated: 29/08/2023
+
+Welcome to the ClickCreate Prepay App! Please read and understand these Terms of Service (TOS) before using the App. By using the App, you agree to these terms and conditions.
+
+1. User Eligibility
+
+Users must connect an Ethereum-compatible wallet (e.g., MetaMask) to the App to use the service. Any wallet can make prepayments for other wallets, but the wallet receiving prepayments must hold a ClickCreate SubPass.
+
+2. Price Change Policy
+
+Prices for prepayments may change over time. However, it's important to note that already paid prepayments are not affected by price changes. Users will still receive the number of tokens they prepaid for at the price they paid, regardless of any subsequent price changes.
+
+3. Non-Refundable Prepayments
+
+All prepayments made through the App for ClickCreate mints are non-refundable. Once a prepayment is completed, it cannot be reversed or refunded, regardless of future price changes or circumstances.
+
+4. How It Works
+
+The App is a straightforward contract that tracks Ethereum transactions for prepaying mints and does not interfere with your assets or NFTs.
+By default, the wallet connected to the App is the one you are prepaying for, and it requires a SubPass. However, you can input any other wallet with a SubPass to prepay on its behalf.
+Weekly snapshots are taken for prepayments, and ClickCreate's team will airdrop tokens to the wallet you prepaid for.
+
+5. SubPass and Mint Allocation
+
+The App checks your SubPasses and allocates mints accordingly.
+For example, if you have 2x SubPasses and prepaid for 5x mints, it will use 2x for the first week, 2x for the second week, and 1x for the third week.
+
+6. Prepayment Pausing
+
+Prepaid mints cannot be paused by the user. They will automatically deduct each week as scheduled.
+
+7. Special Primary Drops
+
+In the case of special Primary Drops with unique mechanics, the ClickCreate team reserves the right to skip the App's snapshot for that week. Details will be announced alongside drop mechanics.
+
+8. User Conduct
+
+Users must adhere to acceptable conduct within the App. This includes refraining from engaging in fraudulent activities or attempting to exploit vulnerabilities in the system.
+
+9. Disclaimer of Liability
+
+The App and its operators disclaim liability for any losses or damages incurred by users, especially in cases beyond their control, such as network congestion or hacking incidents.
+
+10. Termination
+
+The App reserves the right to terminate a user's access for violations of the terms of service or engaging in fraudulent activities.
+
+11. Indemnity
+
+Users agree to indemnify and hold the App and its operators harmless from any claims, losses, or liabilities arising from their use of the App.
+
+12. Age Restrictions
+
+Users must be of legal age to engage in crypto activities in their jurisdiction to use the App.
+
+13. Contact Information
+
+If you have questions or concerns regarding these TOS, please contact us at discord.gg/clickcreate.
+
+By using the ClickCreate Prepay App, you acknowledge that you have read, understood, and agreed to these Terms of Service. If you do not agree to these terms, please do not use the App.

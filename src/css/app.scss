@@ -1,0 +1,66 @@
+// app global css in SCSS form
+
+@font-face {
+  font-family: 'Monsterrat';
+  src: url('https://fonts.gstatic.com/s/montserrat/v26/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2');
+}
+
+@font-face { font-family: "Poppins"; src: url("https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2") format("woff2"); font-style: normal; font-weight: 300; font-display: swap; unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+body {
+  background-color: #212121;
+}
+
+.q-btn {
+  color: #000000;
+  background-color: #ffffff;
+}
+
+.q-btn--flat {
+  color: #ffffff;
+  background-color: #212121;
+}
+
+.q-field--outlined .q-field__control:before {
+  border-color: #cccccc;
+}
+
+.q-field--outlined:hover .q-field__control:before {
+  border-color: #ffffff;
+}
+
+.q-field__label {
+  color: #cccccc;
+}
+
+.short-title {
+  display: none;
+}
+
+@media (max-width: 410px) {
+  .short-title {
+    display: inline-block;
+  }
+  .full-title {
+    display: none;
+  }
+}
+
+.navtitle {
+  font-family: 'Monsterrat';
+  font-weight: 700;
+  letter-spacing: -0.5px;
+}
+
+button > span {
+  font-family: 'Monsterrat';
+  font-weight: 500;
+  letter-spacing: -0.5px;
+}
+
+body {
+  font-family: 'Poppins';
+  font-weight: 300;
+  font-size: 16px;
+  letter-spacing: -0.5px;
+}
